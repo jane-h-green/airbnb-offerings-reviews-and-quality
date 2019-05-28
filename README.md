@@ -1,4 +1,4 @@
-# Airbnb Quality Offerings - NLP for Reviews
+# Airbnb Offerings' Quality - NLP for Reviews
 Estimating AirBnB offerings' quality using customers’ reviews and natural language processing. Techniques - sentiment analysis, text mining, and word cloud visualizations. 
 
 Author: Jane Nikolova
