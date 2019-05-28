@@ -16,6 +16,6 @@ University: Harvard Extension School - Harvard University
 
 Summary of methods & content:
 
-# @ NLP libraries - Text Mining Package (tm); Quickly visualize the keywords as a word cloud (wordcloud)
+@ NLP libraries - Text Mining Package (tm); Quickly visualize the keywords as a word cloud (wordcloud)
 
-# @ Applying sentiment analysis to customer reviews to define positive versus negative reviews and associated word frequencies.
+@ Applying sentiment analysis to customer reviews to define positive versus negative reviews and associated word frequencies.
